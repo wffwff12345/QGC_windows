@@ -1,0 +1,331 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u9879\u76EE\\c#\\UAVApplication\\UavApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1BF213F-B892-437E-9551-A5554F931707}|UavApp.csproj|d:\\\u9879\u76EE\\c#\\uavapplication\\uavapp\\mavlink\\mavlinkcommunicator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1BF213F-B892-437E-9551-A5554F931707}|UavApp.csproj|solutionrelative:mavlink\\mavlinkcommunicator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1BF213F-B892-437E-9551-A5554F931707}|UavApp.csproj|D:\\\u9879\u76EE\\c#\\UAVApplication\\UavApp\\mavlink\\latlngdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1BF213F-B892-437E-9551-A5554F931707}|UavApp.csproj|solutionrelative:mavlink\\latlngdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1BF213F-B892-437E-9551-A5554F931707}|UavApp.csproj|D:\\\u9879\u76EE\\c#\\UAVApplication\\UavApp\\mavlink\\mavlinkwebsocketclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1BF213F-B892-437E-9551-A5554F931707}|UavApp.csproj|solutionrelative:mavlink\\mavlinkwebsocketclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1BF213F-B892-437E-9551-A5554F931707}|UavApp.csproj|D:\\\u9879\u76EE\\c#\\UAVApplication\\UavApp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1BF213F-B892-437E-9551-A5554F931707}|UavApp.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1BF213F-B892-437E-9551-A5554F931707}|UavApp.csproj|D:\\\u9879\u76EE\\c#\\UAVApplication\\UavApp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C1BF213F-B892-437E-9551-A5554F931707}|UavApp.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1BF213F-B892-437E-9551-A5554F931707}|UavApp.csproj|D:\\\u9879\u76EE\\c#\\UAVApplication\\UavApp\\settingsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1BF213F-B892-437E-9551-A5554F931707}|UavApp.csproj|solutionrelative:settingsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1BF213F-B892-437E-9551-A5554F931707}|UavApp.csproj|D:\\\u9879\u76EE\\c#\\UAVApplication\\UavApp\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{C1BF213F-B892-437E-9551-A5554F931707}|UavApp.csproj|solutionrelative:properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1BF213F-B892-437E-9551-A5554F931707}|UavApp.csproj|D:\\\u9879\u76EE\\c#\\UAVApplication\\UavApp\\settingsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C1BF213F-B892-437E-9551-A5554F931707}|UavApp.csproj|solutionrelative:settingsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1BF213F-B892-437E-9551-A5554F931707}|UavApp.csproj|D:\\\u9879\u76EE\\c#\\UAVApplication\\UavApp\\settingsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1BF213F-B892-437E-9551-A5554F931707}|UavApp.csproj|solutionrelative:settingsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1BF213F-B892-437E-9551-A5554F931707}|UavApp.csproj|D:\\\u9879\u76EE\\c#\\UAVApplication\\UavApp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1BF213F-B892-437E-9551-A5554F931707}|UavApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1BF213F-B892-437E-9551-A5554F931707}|UavApp.csproj|D:\\\u9879\u76EE\\c#\\UAVApplication\\UavApp\\mavlink\\mavlinkmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1BF213F-B892-437E-9551-A5554F931707}|UavApp.csproj|solutionrelative:mavlink\\mavlinkmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1BF213F-B892-437E-9551-A5554F931707}|UavApp.csproj|D:\\\u9879\u76EE\\c#\\UAVApplication\\UavApp\\mavlink\\uavvehiclemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1BF213F-B892-437E-9551-A5554F931707}|UavApp.csproj|solutionrelative:mavlink\\uavvehiclemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1BF213F-B892-437E-9551-A5554F931707}|UavApp.csproj|D:\\\u9879\u76EE\\c#\\UAVApplication\\UavApp\\mavlink\\websocketclientcallback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1BF213F-B892-437E-9551-A5554F931707}|UavApp.csproj|solutionrelative:mavlink\\websocketclientcallback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1BF213F-B892-437E-9551-A5554F931707}|UavApp.csproj|D:\\\u9879\u76EE\\c#\\UAVApplication\\UavApp\\mavlink\\mavlinkparse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1BF213F-B892-437E-9551-A5554F931707}|UavApp.csproj|solutionrelative:mavlink\\mavlinkparse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1BF213F-B892-437E-9551-A5554F931707}|UavApp.csproj|D:\\\u9879\u76EE\\c#\\UAVApplication\\UavApp\\mavlink\\mavlinkcrc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1BF213F-B892-437E-9551-A5554F931707}|UavApp.csproj|solutionrelative:mavlink\\mavlinkcrc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1BF213F-B892-437E-9551-A5554F931707}|UavApp.csproj|D:\\\u9879\u76EE\\c#\\UAVApplication\\UavApp\\mavlink\\mavlinkutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1BF213F-B892-437E-9551-A5554F931707}|UavApp.csproj|solutionrelative:mavlink\\mavlinkutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1BF213F-B892-437E-9551-A5554F931707}|UavApp.csproj|D:\\\u9879\u76EE\\c#\\UAVApplication\\UavApp\\mavlink\\mavlinkevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1BF213F-B892-437E-9551-A5554F931707}|UavApp.csproj|solutionrelative:mavlink\\mavlinkevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1BF213F-B892-437E-9551-A5554F931707}|UavApp.csproj|D:\\\u9879\u76EE\\c#\\UAVApplication\\UavApp\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{C1BF213F-B892-437E-9551-A5554F931707}|UavApp.csproj|solutionrelative:form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 308,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MavlinkCommunicator.cs",
+              "DocumentMoniker": "D:\\\u9879\u76EE\\c#\\UAVApplication\\UavApp\\MAVLINK\\MavlinkCommunicator.cs",
+              "RelativeDocumentMoniker": "MAVLINK\\MavlinkCommunicator.cs",
+              "ToolTip": "D:\\\u9879\u76EE\\c#\\UAVApplication\\UavApp\\MAVLINK\\MavlinkCommunicator.cs",
+              "RelativeToolTip": "MAVLINK\\MavlinkCommunicator.cs",
+              "ViewState": "AQIAACMBAAAAAAAAAAAkwDcBAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T08:54:04.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d375ef0d-9946-4920-bae8-e432ebc42c55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u9879\u76EE\\c#\\UAVApplication\\UavApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\\u9879\u76EE\\c#\\UAVApplication\\UavApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAgwCAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T05:51:39.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LatLngDto.cs",
+              "DocumentMoniker": "D:\\\u9879\u76EE\\c#\\UAVApplication\\UavApp\\MAVLINK\\LatLngDto.cs",
+              "RelativeDocumentMoniker": "MAVLINK\\LatLngDto.cs",
+              "ToolTip": "D:\\\u9879\u76EE\\c#\\UAVApplication\\UavApp\\MAVLINK\\LatLngDto.cs",
+              "RelativeToolTip": "MAVLINK\\LatLngDto.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAmwA8AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T08:40:47.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WebSocketClientCallback.cs",
+              "DocumentMoniker": "D:\\\u9879\u76EE\\c#\\UAVApplication\\UavApp\\MAVLINK\\WebSocketClientCallback.cs",
+              "RelativeDocumentMoniker": "MAVLINK\\WebSocketClientCallback.cs",
+              "ToolTip": "D:\\\u9879\u76EE\\c#\\UAVApplication\\UavApp\\MAVLINK\\WebSocketClientCallback.cs",
+              "RelativeToolTip": "MAVLINK\\WebSocketClientCallback.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T07:33:57.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "mavlinkEvent.cs",
+              "DocumentMoniker": "D:\\\u9879\u76EE\\c#\\UAVApplication\\UavApp\\MAVLINK\\mavlinkEvent.cs",
+              "RelativeDocumentMoniker": "MAVLINK\\mavlinkEvent.cs",
+              "ToolTip": "D:\\\u9879\u76EE\\c#\\UAVApplication\\UavApp\\MAVLINK\\mavlinkEvent.cs",
+              "RelativeToolTip": "MAVLINK\\mavlinkEvent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T02:55:57.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SettingsForm.Designer.cs",
+              "DocumentMoniker": "D:\\\u9879\u76EE\\c#\\UAVApplication\\UavApp\\SettingsForm.Designer.cs",
+              "RelativeDocumentMoniker": "SettingsForm.Designer.cs",
+              "ToolTip": "D:\\\u9879\u76EE\\c#\\UAVApplication\\UavApp\\SettingsForm.Designer.cs",
+              "RelativeToolTip": "SettingsForm.Designer.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAswB4AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T02:15:01.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SettingsForm.cs",
+              "DocumentMoniker": "D:\\\u9879\u76EE\\c#\\UAVApplication\\UavApp\\SettingsForm.cs",
+              "RelativeDocumentMoniker": "SettingsForm.cs",
+              "ToolTip": "D:\\\u9879\u76EE\\c#\\UAVApplication\\UavApp\\SettingsForm.cs",
+              "RelativeToolTip": "SettingsForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T02:13:25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SettingsForm.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\\u9879\u76EE\\c#\\UAVApplication\\UavApp\\SettingsForm.cs",
+              "RelativeDocumentMoniker": "SettingsForm.cs",
+              "ToolTip": "D:\\\u9879\u76EE\\c#\\UAVApplication\\UavApp\\SettingsForm.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "SettingsForm.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T02:13:16.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\\u9879\u76EE\\c#\\UAVApplication\\UavApp\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\\u9879\u76EE\\c#\\UAVApplication\\UavApp\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T08:43:16.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "D:\\\u9879\u76EE\\c#\\UAVApplication\\UavApp\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "Properties\\Resources.resx",
+              "ToolTip": "D:\\\u9879\u76EE\\c#\\UAVApplication\\UavApp\\Properties\\Resources.resx",
+              "RelativeToolTip": "Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-01-09T07:14:31.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UavVehicleModel.cs",
+              "DocumentMoniker": "D:\\\u9879\u76EE\\c#\\UAVApplication\\UavApp\\MAVLINK\\UavVehicleModel.cs",
+              "RelativeDocumentMoniker": "MAVLINK\\UavVehicleModel.cs",
+              "ToolTip": "D:\\\u9879\u76EE\\c#\\UAVApplication\\UavApp\\MAVLINK\\UavVehicleModel.cs",
+              "RelativeToolTip": "MAVLINK\\UavVehicleModel.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAADwv1cAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T05:36:22.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MavlinkWebSocketClient.cs",
+              "DocumentMoniker": "D:\\\u9879\u76EE\\c#\\UAVApplication\\UavApp\\MAVLINK\\MavlinkWebSocketClient.cs",
+              "RelativeDocumentMoniker": "MAVLINK\\MavlinkWebSocketClient.cs",
+              "ToolTip": "D:\\\u9879\u76EE\\c#\\UAVApplication\\UavApp\\MAVLINK\\MavlinkWebSocketClient.cs",
+              "RelativeToolTip": "MAVLINK\\MavlinkWebSocketClient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T08:20:25.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MAVLinkMessage.cs",
+              "DocumentMoniker": "D:\\\u9879\u76EE\\c#\\UAVApplication\\UavApp\\MAVLINK\\MAVLinkMessage.cs",
+              "RelativeDocumentMoniker": "MAVLINK\\MAVLinkMessage.cs",
+              "ToolTip": "D:\\\u9879\u76EE\\c#\\UAVApplication\\UavApp\\MAVLINK\\MAVLinkMessage.cs",
+              "RelativeToolTip": "MAVLINK\\MAVLinkMessage.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAADgvzMAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T01:51:01.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MavlinkParse.cs",
+              "DocumentMoniker": "D:\\\u9879\u76EE\\c#\\UAVApplication\\UavApp\\MAVLINK\\MavlinkParse.cs",
+              "RelativeDocumentMoniker": "MAVLINK\\MavlinkParse.cs",
+              "ToolTip": "D:\\\u9879\u76EE\\c#\\UAVApplication\\UavApp\\MAVLINK\\MavlinkParse.cs",
+              "RelativeToolTip": "MAVLINK\\MavlinkParse.cs",
+              "ViewState": "AQIAAOMAAAAAAAAAAADgvxcBAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T08:57:39.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MavlinkCRC.cs",
+              "DocumentMoniker": "D:\\\u9879\u76EE\\c#\\UAVApplication\\UavApp\\MAVLINK\\MavlinkCRC.cs",
+              "RelativeDocumentMoniker": "MAVLINK\\MavlinkCRC.cs",
+              "ToolTip": "D:\\\u9879\u76EE\\c#\\UAVApplication\\UavApp\\MAVLINK\\MavlinkCRC.cs",
+              "RelativeToolTip": "MAVLINK\\MavlinkCRC.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T08:54:36.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "D:\\\u9879\u76EE\\c#\\UAVApplication\\UavApp\\Form1.resx",
+              "RelativeDocumentMoniker": "Form1.resx",
+              "ToolTip": "D:\\\u9879\u76EE\\c#\\UAVApplication\\UavApp\\Form1.resx",
+              "RelativeToolTip": "Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-01-07T08:34:25.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MavlinkUtil.cs",
+              "DocumentMoniker": "D:\\\u9879\u76EE\\c#\\UAVApplication\\UavApp\\MAVLINK\\MavlinkUtil.cs",
+              "RelativeDocumentMoniker": "MAVLINK\\MavlinkUtil.cs",
+              "ToolTip": "D:\\\u9879\u76EE\\c#\\UAVApplication\\UavApp\\MAVLINK\\MavlinkUtil.cs",
+              "RelativeToolTip": "MAVLINK\\MavlinkUtil.cs",
+              "ViewState": "AQIAAFMBAAAAAAAAAAAowLcAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T07:09:25.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\\u9879\u76EE\\c#\\UAVApplication\\UavApp\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\\u9879\u76EE\\c#\\UAVApplication\\UavApp\\Form1.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Form1.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T08:40:37.373Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
